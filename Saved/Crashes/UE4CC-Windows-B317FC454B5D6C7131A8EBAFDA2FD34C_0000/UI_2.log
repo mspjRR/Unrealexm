@@ -1,0 +1,1130 @@
+﻿Log file open, 06/26/22 10:38:51
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: UI
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.349363
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/games/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.06.26-05.08.51:670][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.06.26-05.08.51:670][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.06.26-05.08.51:670][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Saved/Config/Windows/Engine.ini]
+[2022.06.26-05.08.51:670][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.06.26-05.08.51:670][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Saved/Config/Windows/Engine.ini]
+[2022.06.26-05.08.51:670][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Saved/Config/Windows/Engine.ini]
+[2022.06.26-05.08.51:670][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.06.26-05.08.51:670][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.06.26-05.08.51:670][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.06.26-05.08.51:670][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.06.26-05.08.51:670][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.06.26-05.08.51:670][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.06.26-05.08.51:670][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.06.26-05.08.51:670][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.06.26-05.08.51:670][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.06.26-05.08.51:670][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.06.26-05.08.51:670][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.06.26-05.08.51:670][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.06.26-05.08.51:670][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.06.26-05.08.51:670][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.06.26-05.08.51:670][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Saved/Config/Windows/Engine.ini]
+[2022.06.26-05.08.51:670][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.06.26-05.08.51:670][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.06.26-05.08.51:670][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.06.26-05.08.51:670][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.06.26-05.08.51:670][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.06.26-05.08.51:671][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.06.26-05.08.51:671][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.06.26-05.08.51:671][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.06.26-05.08.51:671][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.06.26-05.08.51:671][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.06.26-05.08.51:671][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.06.26-05.08.51:671][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.06.26-05.08.51:671][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.06.26-05.08.51:671][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.06.26-05.08.51:671][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Saved/Config/Windows/Engine.ini]
+[2022.06.26-05.08.51:671][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Saved/Config/Windows/Engine.ini]
+[2022.06.26-05.08.51:681][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Saved/Config/Windows/Scalability.ini]
+[2022.06.26-05.08.51:681][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.06.26-05.08.51:681][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.06.26-05.08.51:681][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Saved/Config/Windows/Scalability.ini]
+[2022.06.26-05.08.51:681][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.06.26-05.08.51:681][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Saved/Config/Windows/Scalability.ini]
+[2022.06.26-05.08.51:681][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.06.26-05.08.51:681][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.06.26-05.08.51:681][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.06.26-05.08.51:681][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.06.26-05.08.51:681][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.06.26-05.08.51:681][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.06.26-05.08.51:681][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.06.26-05.08.51:681][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.06.26-05.08.51:681][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.06.26-05.08.51:681][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.06.26-05.08.51:681][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.06.26-05.08.51:681][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.06.26-05.08.51:681][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.06.26-05.08.51:681][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.06.26-05.08.51:681][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.06.26-05.08.51:681][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.06.26-05.08.51:681][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.06.26-05.08.51:681][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.06.26-05.08.51:681][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Saved/Config/Windows/Scalability.ini]
+[2022.06.26-05.08.51:681][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.06.26-05.08.51:681][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.06.26-05.08.51:681][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.06.26-05.08.51:681][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.06.26-05.08.51:681][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.06.26-05.08.51:681][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.06.26-05.08.51:681][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.06.26-05.08.51:681][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.06.26-05.08.51:681][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.06.26-05.08.51:681][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.06.26-05.08.51:681][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Saved/Config/Windows/Scalability.ini]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Saved/Config/Windows/Scalability.ini]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Saved/Config/Windows/Scalability.ini]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Saved/Config/Windows/Scalability.ini]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.06.26-05.08.51:682][  0]LogInit: Selected Device Profile: [Windows]
+[2022.06.26-05.08.51:682][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.06.26-05.08.51:682][  0]LogHAL: Display: Platform has ~ 8 GB [8443092992 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.06.26-05.08.51:682][  0]LogInit: Going up to parent DeviceProfile []
+[2022.06.26-05.08.51:682][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Saved/Config/Windows/Scalability.ini]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Saved/Config/Windows/Scalability.ini]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.06.26-05.08.51:682][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Saved/Config/Windows/Scalability.ini]
+[2022.06.26-05.08.51:682][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Saved/Config/Windows/Scalability.ini]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Saved/Config/Windows/Scalability.ini]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Saved/Config/Windows/Scalability.ini]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.06.26-05.08.51:683][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Saved/Config/Windows/Scalability.ini]
+[2022.06.26-05.08.51:684][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.06.26-05.08.51:684][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.06.26-05.08.51:684][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Saved/Config/Windows/Scalability.ini]
+[2022.06.26-05.08.51:684][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.06.26-05.08.51:684][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.06.26-05.08.51:684][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.06.26-05.08.51:684][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.06.26-05.08.51:684][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.06.26-05.08.51:684][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.06.26-05.08.51:684][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.06.26-05.08.51:684][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Saved/Config/Windows/Engine.ini]
+[2022.06.26-05.08.51:684][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Saved/Config/Windows/Editor.ini]
+[2022.06.26-05.08.51:684][  0]LogInit: Computer: MSPJ
+[2022.06.26-05.08.51:684][  0]LogInit: User: ramar
+[2022.06.26-05.08.51:684][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.06.26-05.08.51:684][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.06.26-05.08.51:684][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2022.06.26-05.08.51:684][  0]LogMemory: Platform Memory Stats for Windows
+[2022.06.26-05.08.51:684][  0]LogMemory: Process Physical Memory: 141.88 MB used, 141.88 MB peak
+[2022.06.26-05.08.51:684][  0]LogMemory: Process Virtual Memory: 119.11 MB used, 119.11 MB peak
+[2022.06.26-05.08.51:684][  0]LogMemory: Physical Memory: 5958.02 MB used,  2093.95 MB free, 8051.96 MB total
+[2022.06.26-05.08.51:684][  0]LogMemory: Virtual Memory: 134203488.00 MB used,  14240.35 MB free, 134217728.00 MB total
+[2022.06.26-05.08.51:686][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.06.26-05.08.51:722][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.06.26-05.08.51:722][  0]LogInit: Using OS detected language (en-US).
+[2022.06.26-05.08.51:722][  0]LogInit: Using OS detected locale (en-IN).
+[2022.06.26-05.08.51:724][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.06.26-05.08.51:913][  0]LogInit: Setting process to per monitor DPI aware
+[2022.06.26-05.08.51:925][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.06.26-05.08.51:940][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.06.26-05.08.51:940][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.06.26-05.08.52:272][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.06.26-05.08.52:272][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.06.26-05.08.52:272][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.06.26-05.08.52:272][  0]LogD3D11RHI: D3D11 adapters:
+[2022.06.26-05.08.53:756][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2022.06.26-05.08.53:756][  0]LogD3D11RHI:       4019/0/4025 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.06.26-05.08.53:801][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2022.06.26-05.08.53:801][  0]LogD3D11RHI:       128/0/4025 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.06.26-05.08.53:811][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.06.26-05.08.53:811][  0]LogD3D11RHI:       0/0/4025 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.06.26-05.08.53:811][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.06.26-05.08.53:819][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.06.26-05.08.53:819][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2022.06.26-05.08.53:819][  0]LogWindows: EnumDisplayDevices:
+[2022.06.26-05.08.53:819][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2022.06.26-05.08.53:820][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.06.26-05.08.53:820][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.06.26-05.08.53:820][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2022.06.26-05.08.53:820][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2022.06.26-05.08.53:820][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2022.06.26-05.08.53:820][  0]LogD3D11RHI:   Driver Version: 511.69 (internal:30.0.15.1169, unified:511.69)
+[2022.06.26-05.08.53:820][  0]LogD3D11RHI:      Driver Date: 2-1-2022
+[2022.06.26-05.08.53:823][  0]LogRHI: Texture pool is 2813 MB (70% of 4019 MB)
+[2022.06.26-05.08.53:931][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.06.26-05.08.53:932][  0]LogD3D11RHI: Async texture creation enabled
+[2022.06.26-05.08.53:932][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.06.26-05.08.53:953][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.06.26-05.08.53:955][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.06.26-05.08.54:671][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.06.26-05.08.54:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.06.26-05.08.54:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.06.26-05.08.54:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.06.26-05.08.54:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.06.26-05.08.54:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.06.26-05.08.54:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.06.26-05.08.54:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.06.26-05.08.54:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.06.26-05.08.54:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.06.26-05.08.54:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.06.26-05.08.54:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.06.26-05.08.54:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.06.26-05.08.55:057][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.06.26-05.08.55:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.06.26-05.08.55:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.06.26-05.08.55:179][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.06.26-05.08.55:221][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.06.26-05.08.55:262][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.06.26-05.08.55:302][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.06.26-05.08.55:372][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.06.26-05.08.55:372][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.06.26-05.08.55:446][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.06.26-05.08.55:504][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.06.26-05.08.55:553][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.06.26-05.08.55:614][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.06.26-05.08.55:658][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.06.26-05.08.55:658][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.06.26-05.08.55:710][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.06.26-05.08.55:762][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.06.26-05.08.55:800][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.06.26-05.08.55:840][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.06.26-05.08.55:840][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.06.26-05.08.57:734][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.06.26-05.09.02:497][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.06.26-05.09.02:497][  0]LogShaderCompilers: Guid format shader working directory is -11 characters bigger than the processId version (C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Intermediate/Shaders/WorkingDirectory/10876/).
+[2022.06.26-05.09.02:497][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ramar/AppData/Local/Temp/UnrealShaderWorkingDir/27662079486A2DD48CCD71A912B26936/'.
+[2022.06.26-05.09.02:497][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.06.26-05.09.02:498][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.06.26-05.09.04:203][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.06.26-05.09.04:399][  0]LogDerivedDataCache: Loaded boot cache 0.20s 77MB C:/Users/ramar/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.06.26-05.09.04:399][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ramar/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.06.26-05.09.04:399][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.06.26-05.09.04:399][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.06.26-05.09.04:399][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.26-05.09.04:399][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.06.26-05.09.04:465][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.06.26-05.09.04:465][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.26-05.09.04:465][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.06.26-05.09.04:480][  0]LogDerivedDataCache: Speed tests for C:/Users/ramar/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2022.06.26-05.09.04:480][  0]LogDerivedDataCache: Display: Performance to C:/Users/ramar/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.07ms. RandomReadSpeed=159.83MBs, RandomWriteSpeed=111.51MBs. Assigned SpeedClass 'Local'
+[2022.06.26-05.09.04:481][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ramar/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.06.26-05.09.04:481][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.06.26-05.09.04:481][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.06.26-05.09.04:542][  0]LogSlate: Using FreeType 2.10.0
+[2022.06.26-05.09.04:610][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.06.26-05.09.06:314][  0]LogAssetRegistry: FAssetRegistry took 0.0030 seconds to start up
+[2022.06.26-05.09.06:900][  0]LogInit: Selected Device Profile: [Windows]
+[2022.06.26-05.09.06:900][  0]LogInit: Active device profile: [000001F7DC372300][000001F7D692C180 49] Windows
+[2022.06.26-05.09.06:900][  0]LogInit: Profiles: [000001F7DC372300][000001F7D692C180 49] Windows, [000001F7DC285300][000001F7DB74C300 49] WindowsNoEditor, [000001F7DC371A00][000001F7DCA9A480 49] WindowsServer, [000001F7DC286C00][000001F7DCA9E600 49] WindowsClient, [000001F7DC370300][000001F7DCAA2780 49] IOS, [000001F7DC285600][000001F7DCAA6900 49] iPadAir, [000001F7DC26FF00][000001F7DCAAAA80 49] iPadAir2, [000001F7DC235700][000001F7DCAB2D40 49] IPadPro, [000001F7DC235800][000001F7DCAAED80 49] iPadAir3, [000001F7DC370A00][000001F7DCAB6F00 49] iPadAir4, [000001F7DC237400][000001F7DCABB080 49] iPadMini2, [000001F7DC26C100][000001F7DCABF200 49] iPadMini3, [000001F7DC370600][000001F7DCAC3380 49] iPadMini4, [000001F7DC234E00][000001F7DCAC7500 49] iPadMini5, [000001F7DC287C00][000001F7DCACB740 49] iPhone6, [000001F7DC287B00][000001F7DB749780 49] iPodTouch6, [000001F7DC26E000][000001F7DCAD39C0 49] iPhone7, [000001F7DC26E100][000001F7DCACFA00 49] iPodTouch7, [000001F7DC286E00][000001F7DCADBB80 49] iPhone5S, [000001F7DC26D200][000001F7DCADFD00 49] iPhone6Plus, [000001F7DC285400][000001F7DCAE21C0 49] iPhone6S, [000001F7DC26EC00][000001F7DCAE6340 49] iPhone6SPlus, [000001F7DC285D00][000001F7DCAEA4C0 49] iPhone7Plus, [000001F7DC26FC00][000001F7DCAEE640 49] iPhoneSE, [000001F7DC285500][000001F7DCAF27C0 49] iPhone8, [000001F7DC26C200][000001F7DCAF6940 49] iPhone8Plus, [000001F7DC286D00][000001F7DCAFAAC0 49] iPhoneX, [000001F7DC26D000][000001F7DCAFEC40 49] iPhoneXS, [000001F7DC284800][000001F7DCB02DC0 49] iPhoneXSMax, [000001F7DC26F500][000001F7DCB06F40 49] iPhoneXR, [000001F7DC287200][000001F7DCB0B0C0 49] iPhone11, [000001F7DC26D300][000001F7DCB0F240 49] iPhone11Pro, [000001F7DC285700][000001F7DCB133C0 49] iPhone11ProMax, [000001F7DC26DC00][000001F7DCB17540 49] iPhoneSE2, [000001F7DC371E00][000001F7DCB1B6C0 49] iPhone12Mini, [000001F7DC26F600][000001F7DCAD7800 49] iPhone12, [000001F7DC372700][000001F7DCB1F940 49] iPhone12Pro, [000001F7DC26DD00][000001F7DCB23A80 49] iPhone12ProMax, [000001F7DC370E00][000001F7DCB2BC00 49] iPadPro105, [000001F7DC26F700][000001F7DCB2E0C0 49] iPadPro129, [000001F7DC371C00][000001F7DCB32240 49] iPadPro97, [000001F7DC26DB00][000001F7DCB363C0 49] iPadPro2_129, [000001F7DC370900][000001F7DCB3A540 49] iPad5, [000001F7DC26E700][000001F7DCB3E6C0 49] iPad6, [000001F7DC371000][000001F7DCB42840 49] iPad7, [000001F7DC26F900][000001F7DCB469C0 49] iPad8, [000001F7DC371B00][000001F7DCB4AB40 49] iPadPro11, [000001F7DC26FE00][000001F7DCB4ECC0 49] iPadPro2_11, [000001F7DC372900][000001F7DCB52E40 49] iPadPro3_129, [000001F7DC26CD00][000001F7DCB56FC0 49] iPadPro4_129, [000001F7DC370800][000001F7DCB5B140 49] AppleTV, [000001F7DC26D900][000001F7BAC6B2C0 49] AppleTV4K, [000001F7DC372600][000001F7BAC6F440 49] TVOS, [000001F7DC26FB00][000001F7BAC735C0 49] Mac, [000001F7DC371800][000001F7BAC77740 49] MacClient, [000001F7DC26E600][000001F7DCB27880 49] MacNoEditor, [000001F7DC370B00][000001F7BAC7B9C0 49] MacServer, [000001F7DC26CA00][000001F7BAC7FB00 49] Linux, [000001F7DC371500][000001F7BAC83C40 49] LinuxAArch64, [000001F7DC26C600][000001F7BAC8A100 49] LinuxNoEditor, [000001F7DC372D00][000001F7BAC8E280 49] LinuxAArch64NoEditor, [000001F7DC26E900][000001F7BAC92400 49] LinuxClient, [000001F7DC371900][000001F7DCB70580 49] LinuxAArch64Client, [000001F7DC26D400][000001F7DCB74700 49] LinuxServer, [000001F7DC372100][000001F7DCB78880 49] LinuxAArch64Server, [000001F7DC26EA00][000001F7DCB7CA00 49] Android, [000001F7DC371400][000001F7DCB80B80 49] Android_Low, [000001F7DC237E00][000001F7DCB84D00 49] Android_Mid, [000001F7DC285200][000001F7DCB88E80 49] Android_High, [000001F7DC235B00][000001F7DCB8D000 49] Android_Default, [000001F7DC285F00][000001F7DCB91180 49] Android_Adreno4xx, [000001F7DC235A00][000001F7DCB95300 49] Android_Adreno5xx_Low, [000001F7DC287500][000001F7DCB99480 49] Android_Adreno5xx, [000001F7DC237C00][000001F7DCB9D600 49] Android_Adreno6xx, [000001F7DC287F00][000001F7DCBA1780 49] Android_Adreno6xx_Vulkan, [000001F7DC235600][000001F7BAC878C0 49] Android_Mali_T6xx, [000001F7DC284E00][000001F7DCBA5A00 49] Android_Mali_T7xx, [000001F7DC237D00][000001F7DCBA9B40 49] Android_Mali_T8xx, [000001F7DC285800][000001F7DCBADC80 49] Android_Mali_G71, [000001F7DC237800][000001F7DCBB4140 49] Android_Mali_G72, [000001F7DC286F00][000001F7DCBB82C0 49] Android_Mali_G72_Vulkan, [000001F7DC237700][000001F7DCBBC440 49] Android_Mali_G76, [000001F7DC284400][000001F7DCBC05C0 49] Android_Mali_G76_Vulkan, [000001F7DC235900][000001F7DCBC4740 49] Android_Mali_G77, [000001F7DC286900][000001F7DCBC88C0 49] Android_Mali_G77_Vulkan, [000001F7DC235C00][000001F7DCBCCA40 49] Android_Vulkan_SM5, [000001F7DC284300][000001F7DCBD0BC0 49] Android_PowerVR_G6xxx, [000001F7DC236100][000001F7DCBD4D40 49] Android_PowerVR_GT7xxx, [000001F7DC287400][000001F7DCBD8EC0 49] Android_PowerVR_GE8xxx, [000001F7DC235400][000001F7DCBDD040 49] Android_PowerVR_GM9xxx, [000001F7DC287A00][000001F7DCBE11C0 49] Android_PowerVR_GM9xxx_Vulkan, [000001F7DC234400][000001F7DCBE5340 49] Android_TegraK1, [000001F7DC284700][000001F7DCBE94C0 49] Android_Unknown_Vulkan, [000001F7DC234300][000001F7DCBED640 49] Lumin, [000001F7DC286A00][000001F7DCBF17C0 49] Lumin_Desktop, [000001F7DC236500][000001F7DCBF5940 49] HoloLens, 
+[2022.06.26-05.09.13:734][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.06.26-05.09.13:734][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.06.26-05.09.13:734][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.06.26-05.09.13:734][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.06.26-05.09.13:734][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.06.26-05.09.20:240][  0]LogAssetRegistry: Error: Package C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/GameOver.uasset has newer custom version of FortniteMain
+[2022.06.26-05.09.20:240][  0]LogAssetRegistry: Error: Package C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/HudDisplay.uasset has newer custom version of Release
+[2022.06.26-05.09.20:240][  0]LogAssetRegistry: Error: Package C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/Timer.uasset has newer custom version of FortniteMain
+[2022.06.26-05.09.20:240][  0]LogAssetRegistry: Error: Package C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/Coin/Coin.uasset has newer custom version of Dev-Rendering
+[2022.06.26-05.09.20:240][  0]LogAssetRegistry: Error: Package C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Architecture/Floor_400x400.uasset has newer custom version of Dev-Rendering
+[2022.06.26-05.09.20:240][  0]LogAssetRegistry: Error: Package C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Architecture/Pillar_50x500.uasset has newer custom version of Dev-Rendering
+[2022.06.26-05.09.20:240][  0]LogNetVersion: UI 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 703685655)
+[2022.06.26-05.09.33:450][  0]LogAssetRegistry: Error: Package C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset has newer custom version of Dev-Rendering
+[2022.06.26-05.09.33:450][  0]LogAssetRegistry: Error: Package C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset has newer custom version of Release
+[2022.06.26-05.09.33:450][  0]LogAssetRegistry: Error: Package C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap has newer custom version of Dev-Rendering
+[2022.06.26-05.09.33:450][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.06.26-05.09.33:649][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.154949 seconds
+[2022.06.26-05.09.33:682][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2022.06.26-05.09.33:683][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2022.06.26-05.09.33:683][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.06.26-05.09.42:396][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.06.26-05.09.42:423][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.06.26-05.09.44:878][  0]SourceControl: Source control is disabled
+[2022.06.26-05.09.44:879][  0]SourceControl: Source control is disabled
+[2022.06.26-05.09.44:880][  0]SourceControl: Source control is disabled
+[2022.06.26-05.09.44:881][  0]SourceControl: Source control is disabled
+[2022.06.26-05.09.44:885][  0]SourceControl: Source control is disabled
+[2022.06.26-05.09.44:888][  0]LogUProjectInfo: Found projects:
+[2022.06.26-05.09.48:002][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.06.26-05.09.48:320][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.26-05.09.48:320][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.26-05.09.49:032][  0]LogCollectionManager: Loaded 0 collections in 0.000700 seconds
+[2022.06.26-05.09.49:114][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Saved/Collections/' took 0.00s
+[2022.06.26-05.09.49:114][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/Developers/ramar/Collections/' took 0.00s
+[2022.06.26-05.09.49:114][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/Collections/' took 0.00s
+[2022.06.26-05.09.49:336][  0]LogOcInput: OculusInput pre-init called
+[2022.06.26-05.09.49:481][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.06.26-05.09.49:481][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.06.26-05.09.51:237][  0]LogEngine: Initializing Engine...
+[2022.06.26-05.09.51:310][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.06.26-05.09.51:310][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.06.26-05.09.51:342][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2022.06.26-05.09.51:648][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.06.26-05.09.52:863][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.06.26-05.09.52:980][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.06.26-05.09.53:064][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.06.26-05.09.53:064][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.06.26-05.09.53:098][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.26-05.09.53:098][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.26-05.09.53:098][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.26-05.09.53:098][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.26-05.09.53:098][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.26-05.09.53:098][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.26-05.09.53:098][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.26-05.09.53:107][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.26-05.09.53:128][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.26-05.09.53:128][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.26-05.09.53:338][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.26-05.09.53:338][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.06.26-05.09.53:491][  0]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.06.26-05.09.53:531][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.26-05.09.53:533][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.26-05.09.53:534][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.26-05.09.53:538][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.26-05.09.53:539][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.26-05.09.53:539][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.26-05.09.53:539][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.26-05.09.53:539][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.26-05.09.53:539][  0]LogInit: FAudioDevice initialized.
+[2022.06.26-05.09.53:566][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.06.26-05.09.53:566][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.06.26-05.09.53:566][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.06.26-05.09.53:575][  0]LogDerivedDataCache: Error: Could not save memory cache C:/Users/ramar/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.06.26-05.09.53:576][  0]LogInit: Texture streaming: Enabled
+[2022.06.26-05.09.54:326][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.06.26-05.09.54:652][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.06.26-05.09.54:720][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={E72C39AE-4134-64E0-29F2-5B8145C5447C}
+[2022.06.26-05.09.54:727][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.06.26-05.09.57:656][  0]LogInit: Transaction tracking system initialized
+[2022.06.26-05.09.58:954][  0]BlueprintLog: New page: Editor Load
+[2022.06.26-05.10.02:530][  0]LocalizationService: Localization service is disabled
+[2022.06.26-05.10.04:644][  0]TimingProfiler: Initialize
+[2022.06.26-05.10.04:644][  0]TimingProfiler: OnSessionChanged
+[2022.06.26-05.10.04:644][  0]LoadingProfiler: Initialize
+[2022.06.26-05.10.04:644][  0]LoadingProfiler: OnSessionChanged
+[2022.06.26-05.10.04:644][  0]NetworkingProfiler: Initialize
+[2022.06.26-05.10.04:644][  0]NetworkingProfiler: OnSessionChanged
+[2022.06.26-05.10.04:644][  0]MemoryProfiler: Initialize
+[2022.06.26-05.10.04:644][  0]MemoryProfiler: OnSessionChanged
+[2022.06.26-05.10.08:354][  0]LogSlate: Took 0.024543 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.06.26-05.10.11:439][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.06.26-05.10.35:155][  0]LogSlate: Window 'Low drive space warning' being destroyed
+[2022.06.26-05.10.35:218][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.06.26-05.10.35:246][  0]Message dialog closed, result: Ok, title: Low drive space warning, text: The following drive locations have limited free space.
+It is recommended that you free some space to avoid issues such as crashed and data loss due to files not being able to be written and saved.
+
+  5,028 MB Free 		 C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/
+ 				 The project directory. 
+
+[2022.06.26-05.10.37:532][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/' took 0.00s
+[2022.06.26-05.10.37:532][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.06.26-05.10.37:550][  0]LogCook: Display: Mobile HDR setting 1
+[2022.06.26-05.10.43:800][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.06.26-05.10.44:044][  0]SourceControl: Source control is disabled
+[2022.06.26-05.10.44:093][  0]LogUnrealEdMisc: Loading editor; pre map load, took 113.459
+[2022.06.26-05.10.44:326][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 D:/games/Epic Games/UE_4.26/FeaturePacks/StarterContent.upack)
+[2022.06.26-05.10.44:401][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.26-05.10.44:401][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.26-05.10.44:401][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.26-05.10.44:486][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2022.06.26-05.10.44:502][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2022.06.26-05.10.44:511][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Architecture/Pillar_50x500.uasset".
+[2022.06.26-05.10.44:512][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Architecture/SM_AssetPlatform.uasset".
+[2022.06.26-05.10.44:523][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2022.06.26-05.10.44:534][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2022.06.26-05.10.44:535][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2022.06.26-05.10.44:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2022.06.26-05.10.44:549][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2022.06.26-05.10.44:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2022.06.26-05.10.44:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2022.06.26-05.10.44:553][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2022.06.26-05.10.44:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Audio/Collapse01.uasset"
+[2022.06.26-05.10.44:584][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Audio/Collapse02.uasset".
+[2022.06.26-05.10.44:632][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2022.06.26-05.10.44:632][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Audio/Explosion01.uasset"
+[2022.06.26-05.10.44:633][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Audio/Explosion02.uasset"
+[2022.06.26-05.10.44:634][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2022.06.26-05.10.44:635][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Audio/Fire01.uasset"
+[2022.06.26-05.10.44:641][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Audio/Fire01_Cue.uasset".
+[2022.06.26-05.10.44:670][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2022.06.26-05.10.44:671][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2022.06.26-05.10.44:682][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Audio/Light01.uasset".
+[2022.06.26-05.10.44:730][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2022.06.26-05.10.44:731][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Audio/Light02.uasset"
+[2022.06.26-05.10.44:731][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2022.06.26-05.10.44:732][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Audio/Smoke01.uasset"
+[2022.06.26-05.10.44:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2022.06.26-05.10.44:741][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Audio/Starter_Background_Cue.uasset".
+[2022.06.26-05.10.44:771][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2022.06.26-05.10.44:789][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Audio/Starter_Music01.uasset".
+[2022.06.26-05.10.44:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2022.06.26-05.10.45:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2022.06.26-05.10.45:060][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Audio/Starter_Wind06.uasset".
+[2022.06.26-05.10.45:087][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Audio/Steam01.uasset"
+[2022.06.26-05.10.45:100][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Audio/Steam01_Cue.uasset".
+[2022.06.26-05.10.45:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2022.06.26-05.10.45:126][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2022.06.26-05.10.45:127][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2022.06.26-05.10.45:152][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset".
+[2022.06.26-05.10.45:161][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2022.06.26-05.10.45:167][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset".
+[2022.06.26-05.10.45:183][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2022.06.26-05.10.45:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2022.06.26-05.10.45:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2022.06.26-05.10.45:204][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2022.06.26-05.10.45:205][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset".
+[2022.06.26-05.10.45:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2022.06.26-05.10.45:208][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2022.06.26-05.10.45:225][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Blueprints/Assets/Skybox.uasset".
+[2022.06.26-05.10.45:268][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2022.06.26-05.10.45:269][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset".
+[2022.06.26-05.10.45:271][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset".
+[2022.06.26-05.10.45:413][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2022.06.26-05.10.45:435][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2022.06.26-05.10.45:454][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Maps/Minimal_Default.umap"
+[2022.06.26-05.10.45:896][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2022.06.26-05.10.45:910][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Maps/StarterMap.umap"
+[2022.06.26-05.10.46:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2022.06.26-05.10.46:195][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Materials/M_AssetPlatform.uasset".
+[2022.06.26-05.10.46:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2022.06.26-05.10.46:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2022.06.26-05.10.46:210][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2022.06.26-05.10.46:224][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Materials/M_Brick_Clay_New.uasset".
+[2022.06.26-05.10.46:240][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2022.06.26-05.10.46:251][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset".
+[2022.06.26-05.10.46:334][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2022.06.26-05.10.46:335][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset".
+[2022.06.26-05.10.46:338][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2022.06.26-05.10.46:356][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2022.06.26-05.10.46:371][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2022.06.26-05.10.46:371][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset".
+[2022.06.26-05.10.46:381][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2022.06.26-05.10.46:381][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Materials/M_Concrete_Panels.uasset".
+[2022.06.26-05.10.46:385][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2022.06.26-05.10.46:398][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Materials/M_Concrete_Tiles.uasset".
+[2022.06.26-05.10.46:400][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Materials/M_Glass.uasset"
+[2022.06.26-05.10.46:411][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Materials/M_Ground_Grass.uasset".
+[2022.06.26-05.10.46:413][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Materials/M_Ground_Gravel.uasset".
+[2022.06.26-05.10.46:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2022.06.26-05.10.46:446][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset".
+[2022.06.26-05.10.46:456][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2022.06.26-05.10.46:478][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Materials/M_Metal_Chrome.uasset".
+[2022.06.26-05.10.46:501][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2022.06.26-05.10.46:502][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Materials/M_Metal_Gold.uasset".
+[2022.06.26-05.10.46:503][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2022.06.26-05.10.46:524][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Materials/M_Metal_Steel.uasset".
+[2022.06.26-05.10.46:525][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Materials/M_Rock_Basalt.uasset".
+[2022.06.26-05.10.46:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2022.06.26-05.10.46:583][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2022.06.26-05.10.46:585][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Materials/M_Rock_Slate.uasset".
+[2022.06.26-05.10.46:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2022.06.26-05.10.46:642][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset".
+[2022.06.26-05.10.46:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2022.06.26-05.10.46:644][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2022.06.26-05.10.46:644][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Materials/M_Water_Lake.uasset".
+[2022.06.26-05.10.46:662][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2022.06.26-05.10.46:663][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset".
+[2022.06.26-05.10.46:694][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset".
+[2022.06.26-05.10.46:710][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2022.06.26-05.10.46:711][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Materials/M_Wood_Pine.uasset".
+[2022.06.26-05.10.46:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2022.06.26-05.10.46:760][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2022.06.26-05.10.46:761][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Particles/P_Explosion.uasset".
+[2022.06.26-05.10.46:797][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Particles/P_Fire.uasset"
+[2022.06.26-05.10.46:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Particles/P_Smoke.uasset"
+[2022.06.26-05.10.46:800][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Particles/P_Sparks.uasset"
+[2022.06.26-05.10.46:810][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Particles/P_Steam_Lit.uasset".
+[2022.06.26-05.10.46:812][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Particles/Materials/M_Burst.uasset".
+[2022.06.26-05.10.46:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2022.06.26-05.10.46:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2022.06.26-05.10.46:829][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset".
+[2022.06.26-05.10.46:831][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2022.06.26-05.10.46:831][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset".
+[2022.06.26-05.10.46:833][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2022.06.26-05.10.46:862][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset".
+[2022.06.26-05.10.46:883][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2022.06.26-05.10.46:884][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Particles/Materials/M_Spark.uasset".
+[2022.06.26-05.10.46:895][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Props/MaterialSphere.uasset"
+[2022.06.26-05.10.46:895][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Props/SM_Bush.uasset".
+[2022.06.26-05.10.46:897][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Props/SM_Chair.uasset"
+[2022.06.26-05.10.46:898][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Props/SM_CornerFrame.uasset".
+[2022.06.26-05.10.46:901][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Props/SM_Couch.uasset"
+[2022.06.26-05.10.46:901][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Props/SM_Door.uasset".
+[2022.06.26-05.10.46:905][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2022.06.26-05.10.46:918][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Props/SM_GlassWindow.uasset".
+[2022.06.26-05.10.46:921][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset".
+[2022.06.26-05.10.46:942][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2022.06.26-05.10.46:998][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset".
+[2022.06.26-05.10.47:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2022.06.26-05.10.47:084][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2022.06.26-05.10.47:084][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Props/SM_Rock.uasset".
+[2022.06.26-05.10.47:087][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Props/SM_Shelf.uasset"
+[2022.06.26-05.10.47:087][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Props/SM_Stairs.uasset".
+[2022.06.26-05.10.47:088][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Props/SM_Statue.uasset".
+[2022.06.26-05.10.47:120][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Props/SM_TableRound.uasset"
+[2022.06.26-05.10.47:121][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Props/SM_WindowFrame.uasset".
+[2022.06.26-05.10.47:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2022.06.26-05.10.47:124][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Props/Materials/M_Chair.uasset".
+[2022.06.26-05.10.47:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2022.06.26-05.10.47:126][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Props/Materials/M_Frame.uasset".
+[2022.06.26-05.10.47:127][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Props/Materials/M_Lamp.uasset".
+[2022.06.26-05.10.47:128][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2022.06.26-05.10.47:138][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2022.06.26-05.10.47:146][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Props/Materials/M_Rock.uasset".
+[2022.06.26-05.10.47:148][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2022.06.26-05.10.47:148][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Props/Materials/M_Statue.uasset".
+[2022.06.26-05.10.47:177][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2022.06.26-05.10.47:177][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2022.06.26-05.10.47:178][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2022.06.26-05.10.47:178][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2022.06.26-05.10.47:179][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2022.06.26-05.10.47:179][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2022.06.26-05.10.47:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2022.06.26-05.10.47:183][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Shapes/Shape_Pipe_180.uasset".
+[2022.06.26-05.10.47:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2022.06.26-05.10.47:202][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Shapes/Shape_Plane.uasset".
+[2022.06.26-05.10.47:205][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2022.06.26-05.10.47:205][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Shapes/Shape_Sphere.uasset".
+[2022.06.26-05.10.47:222][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2022.06.26-05.10.47:223][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Shapes/Shape_Trim.uasset".
+[2022.06.26-05.10.47:224][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2022.06.26-05.10.47:225][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset".
+[2022.06.26-05.10.47:226][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2022.06.26-05.10.47:228][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2022.06.26-05.10.47:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2022.06.26-05.10.47:230][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2022.06.26-05.10.47:231][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Shapes/Shape_WideCapsule.uasset".
+[2022.06.26-05.10.47:258][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset".
+[2022.06.26-05.10.47:430][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2022.06.26-05.10.47:442][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset".
+[2022.06.26-05.10.47:556][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2022.06.26-05.10.47:580][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset".
+[2022.06.26-05.10.47:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2022.06.26-05.10.48:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2022.06.26-05.10.48:178][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset".
+[2022.06.26-05.10.48:428][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2022.06.26-05.10.48:432][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2022.06.26-05.10.48:448][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset".
+[2022.06.26-05.10.48:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2022.06.26-05.10.48:637][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2022.06.26-05.10.48:639][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2022.06.26-05.10.48:666][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2022.06.26-05.10.48:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2022.06.26-05.10.48:702][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2022.06.26-05.10.48:702][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2022.06.26-05.10.48:717][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Chair_M.uasset".
+[2022.06.26-05.10.48:745][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2022.06.26-05.10.48:753][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Checker_Noise_M.uasset".
+[2022.06.26-05.10.49:286][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2022.06.26-05.10.49:287][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2022.06.26-05.10.49:302][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset".
+[2022.06.26-05.10.49:313][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset".
+[2022.06.26-05.10.49:405][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2022.06.26-05.10.49:405][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset".
+[2022.06.26-05.10.49:549][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2022.06.26-05.10.49:577][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset".
+[2022.06.26-05.10.49:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2022.06.26-05.10.49:773][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset".
+[2022.06.26-05.10.49:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2022.06.26-05.10.49:868][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset".
+[2022.06.26-05.10.50:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2022.06.26-05.10.50:017][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset".
+[2022.06.26-05.10.50:136][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2022.06.26-05.10.50:156][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset".
+[2022.06.26-05.10.50:224][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2022.06.26-05.10.50:225][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset".
+[2022.06.26-05.10.50:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Door_M.uasset"
+[2022.06.26-05.10.50:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Door_N.uasset"
+[2022.06.26-05.10.50:306][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Dust_Particle_D.uasset".
+[2022.06.26-05.10.50:484][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2022.06.26-05.10.50:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2022.06.26-05.10.50:489][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset".
+[2022.06.26-05.10.50:503][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2022.06.26-05.10.50:519][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Frame_N.uasset".
+[2022.06.26-05.10.50:539][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2022.06.26-05.10.50:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2022.06.26-05.10.50:777][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Ground_Grass_N.uasset".
+[2022.06.26-05.10.51:030][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2022.06.26-05.10.51:071][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset".
+[2022.06.26-05.10.51:261][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2022.06.26-05.10.51:268][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2022.06.26-05.10.51:276][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Lamp_M.uasset".
+[2022.06.26-05.10.51:302][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2022.06.26-05.10.51:327][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_MacroVariation.uasset".
+[2022.06.26-05.10.51:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2022.06.26-05.10.51:613][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Metal_Copper_D.uasset".
+[2022.06.26-05.10.51:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2022.06.26-05.10.51:859][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2022.06.26-05.10.51:886][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Metal_Rust_D.uasset".
+[2022.06.26-05.10.52:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2022.06.26-05.10.52:028][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Metal_Steel_D.uasset".
+[2022.06.26-05.10.52:245][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2022.06.26-05.10.52:280][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset".
+[2022.06.26-05.10.52:358][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2022.06.26-05.10.52:465][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2022.06.26-05.10.52:484][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset".
+[2022.06.26-05.10.52:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2022.06.26-05.10.52:698][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset".
+[2022.06.26-05.10.52:816][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2022.06.26-05.10.52:822][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset".
+[2022.06.26-05.10.53:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2022.06.26-05.10.53:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2022.06.26-05.10.53:527][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2022.06.26-05.10.53:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2022.06.26-05.10.53:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2022.06.26-05.10.53:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2022.06.26-05.10.53:567][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Smoke_SubUV.uasset".
+[2022.06.26-05.10.53:629][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2022.06.26-05.10.53:629][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Spark_Core.uasset".
+[2022.06.26-05.10.53:655][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2022.06.26-05.10.53:656][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Statue_N.uasset".
+[2022.06.26-05.10.53:784][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2022.06.26-05.10.53:818][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_TableRound_N.uasset".
+[2022.06.26-05.10.53:872][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2022.06.26-05.10.53:873][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Tech_Dot_N.uasset".
+[2022.06.26-05.10.53:892][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2022.06.26-05.10.53:898][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset".
+[2022.06.26-05.10.53:904][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2022.06.26-05.10.53:926][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Tech_Panel_N.uasset".
+[2022.06.26-05.10.53:992][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Water_M.uasset"
+[2022.06.26-05.10.54:011][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Water_N.uasset".
+[2022.06.26-05.10.54:162][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2022.06.26-05.10.54:180][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset".
+[2022.06.26-05.10.54:209][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2022.06.26-05.10.54:226][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Wood_Oak_D.uasset".
+[2022.06.26-05.10.54:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2022.06.26-05.10.54:615][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Wood_Pine_D.uasset".
+[2022.06.26-05.10.54:721][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2022.06.26-05.10.54:866][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2022.06.26-05.10.54:874][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset".
+[2022.06.26-05.10.56:709][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2022.06.26-05.10.56:794][  0]LogStaticMesh: Built static mesh [0.09s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2022.06.26-05.10.58:266][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2022.06.26-05.10.59:609][  0]LogSavePackage: Moving 'C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Saved/Floor_400x4009E24619E4612819F5487D899C475D3FC.tmp' to 'C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2022.06.26-05.10.59:684][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2022.06.26-05.10.59:700][  0]Cmd: MAP LOAD FILE="C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.26-05.10.59:702][  0]LightingResults: New page: Lighting Build
+[2022.06.26-05.10.59:776][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.06.26-05.10.59:840][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.26-05.10.59:932][  0]MapCheck: New page: Map Check
+[2022.06.26-05.10.59:932][  0]LightingResults: New page: Lighting Build
+[2022.06.26-05.11.00:823][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.06.26-05.11.00:917][  0]LogLinker: Warning: Asset 'C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' has been saved with a newer engine and can't be loaded. CurrentEngineVersion: 4.26.2-15973114+++UE4+Release-4.26 (Licensee=0). AssetEngineVersion: 4.27.0-17155196+++UE4+Release-4.27 (Licensee=0)
+[2022.06.26-05.11.00:979][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.06.26-05.11.06:751][  0]LogSlate: Window 'Message' being destroyed
+[2022.06.26-05.11.06:754][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.06.26-05.11.06:769][  0]Message dialog closed, result: Ok, title: Message, text: Failed to open map file. This is most likely because the map was saved with a newer version of the engine.
+[2022.06.26-05.11.07:164][  0]LightingResults: New page: Lighting Build
+[2022.06.26-05.11.07:187][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.06.26-05.11.07:447][  0]LoadErrors: New page: New Map
+[2022.06.26-05.11.10:091][  0]LogUnrealEdMisc: Total Editor Startup Time, took 139.468
+[2022.06.26-05.11.11:283][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.26-05.11.11:330][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.26-05.11.11:354][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.26-05.11.11:362][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.26-05.11.11:754][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0124 seconds. Added 3601 classes and 859 folders.
+[2022.06.26-05.11.11:996][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0020 seconds. Added 0 classes and 0 folders.
+[2022.06.26-05.11.12:150][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.06.26-05.11.12:150][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.26-05.11.12:150][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.26-05.11.12:162][  0]LogPakFile: OnPakFileMounted2Time == 0.010489
+[2022.06.26-05.11.12:194][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.06.26-05.11.12:194][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.26-05.11.12:194][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.06.26-05.11.12:194][  0]LogPakFile: OnPakFileMounted2Time == 0.010492
+[2022.06.26-05.11.12:209][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.06.26-05.11.12:210][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.26-05.11.12:210][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.06.26-05.11.12:210][  0]LogPakFile: OnPakFileMounted2Time == 0.010495
+[2022.06.26-05.11.12:222][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.26-05.11.12:222][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.26-05.11.12:222][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.26-05.11.12:222][  0]LogPakFile: OnPakFileMounted2Time == 0.010498
+[2022.06.26-05.11.12:235][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.06.26-05.11.12:235][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.26-05.11.12:235][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.06.26-05.11.12:235][  0]LogPakFile: OnPakFileMounted2Time == 0.010502
+[2022.06.26-05.11.12:238][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.06.26-05.11.12:238][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.26-05.11.12:238][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.06.26-05.11.12:238][  0]LogPakFile: OnPakFileMounted2Time == 0.010503
+[2022.06.26-05.11.12:241][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.06.26-05.11.12:241][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.26-05.11.12:241][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.06.26-05.11.12:241][  0]LogPakFile: OnPakFileMounted2Time == 0.010504
+[2022.06.26-05.11.12:243][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.06.26-05.11.12:243][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.26-05.11.12:243][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.06.26-05.11.12:243][  0]LogPakFile: OnPakFileMounted2Time == 0.010506
+[2022.06.26-05.11.12:246][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.06.26-05.11.12:246][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.26-05.11.12:246][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.06.26-05.11.12:246][  0]LogPakFile: OnPakFileMounted2Time == 0.010508
+[2022.06.26-05.11.12:265][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.06.26-05.11.12:265][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.26-05.11.12:265][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.06.26-05.11.12:265][  0]LogPakFile: OnPakFileMounted2Time == 0.010512
+[2022.06.26-05.11.12:268][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.06.26-05.11.12:268][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.26-05.11.12:268][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.06.26-05.11.12:268][  0]LogPakFile: OnPakFileMounted2Time == 0.010515
+[2022.06.26-05.11.12:272][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.06.26-05.11.12:272][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.26-05.11.12:272][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.06.26-05.11.12:272][  0]LogPakFile: OnPakFileMounted2Time == 0.010518
+[2022.06.26-05.11.12:286][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.26-05.11.12:286][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.26-05.11.12:286][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.26-05.11.12:286][  0]LogPakFile: OnPakFileMounted2Time == 0.010522
+[2022.06.26-05.11.12:307][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.06.26-05.11.12:308][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.26-05.11.12:308][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.06.26-05.11.12:308][  0]LogPakFile: OnPakFileMounted2Time == 0.010525
+[2022.06.26-05.11.12:319][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.06.26-05.11.12:319][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.26-05.11.12:319][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.06.26-05.11.12:319][  0]LogPakFile: OnPakFileMounted2Time == 0.010527
+[2022.06.26-05.11.12:321][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.06.26-05.11.12:321][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.26-05.11.12:321][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.26-05.11.12:321][  0]LogPakFile: OnPakFileMounted2Time == 0.010529
+[2022.06.26-05.11.12:324][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.06.26-05.11.12:324][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.26-05.11.12:324][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.06.26-05.11.12:324][  0]LogPakFile: OnPakFileMounted2Time == 0.010530
+[2022.06.26-05.11.12:326][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.06.26-05.11.12:326][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.26-05.11.12:326][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.06.26-05.11.12:326][  0]LogPakFile: OnPakFileMounted2Time == 0.010532
+[2022.06.26-05.11.12:328][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.26-05.11.12:328][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.26-05.11.12:328][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.26-05.11.12:328][  0]LogPakFile: OnPakFileMounted2Time == 0.010533
+[2022.06.26-05.11.12:330][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.26-05.11.12:330][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.26-05.11.12:330][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.26-05.11.12:330][  0]LogPakFile: OnPakFileMounted2Time == 0.010535
+[2022.06.26-05.11.12:332][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.06.26-05.11.12:332][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.26-05.11.12:332][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.26-05.11.12:332][  0]LogPakFile: OnPakFileMounted2Time == 0.010536
+[2022.06.26-05.11.12:335][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.06.26-05.11.12:335][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.26-05.11.12:335][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.06.26-05.11.12:335][  0]LogPakFile: OnPakFileMounted2Time == 0.010537
+[2022.06.26-05.11.12:336][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.06.26-05.11.12:336][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.26-05.11.12:336][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.06.26-05.11.12:336][  0]LogPakFile: OnPakFileMounted2Time == 0.010539
+[2022.06.26-05.11.12:348][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.06.26-05.11.12:348][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.26-05.11.12:348][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.06.26-05.11.12:348][  0]LogPakFile: OnPakFileMounted2Time == 0.010543
+[2022.06.26-05.11.12:352][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.26-05.11.12:352][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.26-05.11.12:352][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.26-05.11.12:352][  0]LogPakFile: OnPakFileMounted2Time == 0.010546
+[2022.06.26-05.11.12:362][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.06.26-05.11.12:362][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.26-05.11.12:362][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.06.26-05.11.12:362][  0]LogPakFile: OnPakFileMounted2Time == 0.010550
+[2022.06.26-05.11.13:104][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.06.26-05.11.13:138][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2022.06.26-05.11.14:246][  0]LogSlate: Took 0.028997 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.06.26-05.11.14:390][  0]LogSlate: Took 0.015876 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.06.26-05.11.14:916][  0]LogRenderer: Reallocating scene render targets to support 964x512 Format 10 NumSamples 1 (Frame:1).
+[2022.06.26-05.11.15:496][  0]LogSlate: Took 0.016568 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.26-05.11.15:726][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.06.26-05.11.15:726][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2022.06.26-05.11.15:726][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2022.06.26-05.11.15:726][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2022.06.26-05.11.15:726][  0]LogLoad: (Engine Initialization) Total time: 145.10 seconds
+[2022.06.26-05.11.15:726][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.06.26-05.11.15:739][  0]LogInit: First time updating LLM stats...
+[2022.06.26-05.11.15:898][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2022.06.26-05.11.15:898][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2022.06.26-05.11.15:913][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.06.26-05.11.15:919][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.06.26-05.11.16:039][  0]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Intermediate/ReimportCache/3688439234.bin.tmp' to 'C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Intermediate/ReimportCache/3688439234.bin' (Error Code 32), retrying in .5s...
+[2022.06.26-05.11.16:539][  0]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Intermediate/ReimportCache/3688439234.bin.tmp' to 'C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Intermediate/ReimportCache/3688439234.bin' (Error Code 2), retrying in .5s...
+[2022.06.26-05.11.17:039][  0]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Intermediate/ReimportCache/3688439234.bin.tmp' to 'C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Intermediate/ReimportCache/3688439234.bin' (Error Code 2), retrying in .5s...
+[2022.06.26-05.11.17:540][  0]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Intermediate/ReimportCache/3688439234.bin.tmp' to 'C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Intermediate/ReimportCache/3688439234.bin' (Error Code 2), retrying in .5s...
+[2022.06.26-05.11.18:042][  0]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Intermediate/ReimportCache/3688439234.bin.tmp' to 'C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Intermediate/ReimportCache/3688439234.bin' (Error Code 2), retrying in .5s...
+[2022.06.26-05.11.18:542][  0]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Intermediate/ReimportCache/3688439234.bin.tmp' to 'C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Intermediate/ReimportCache/3688439234.bin' (Error Code 2), retrying in .5s...
+[2022.06.26-05.11.19:043][  0]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Intermediate/ReimportCache/3688439234.bin.tmp' to 'C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Intermediate/ReimportCache/3688439234.bin' (Error Code 2), retrying in .5s...
+[2022.06.26-05.11.19:544][  0]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Intermediate/ReimportCache/3688439234.bin.tmp' to 'C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Intermediate/ReimportCache/3688439234.bin' (Error Code 2), retrying in .5s...
+[2022.06.26-05.11.20:045][  0]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Intermediate/ReimportCache/3688439234.bin.tmp' to 'C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Intermediate/ReimportCache/3688439234.bin' (Error Code 2), retrying in .5s...
+[2022.06.26-05.11.20:550][  0]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Intermediate/ReimportCache/3688439234.bin.tmp' to 'C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Intermediate/ReimportCache/3688439234.bin' (Error Code 2), retrying in .5s...
+[2022.06.26-05.11.21:050][  0]LogFileManager: Error: Error moving file 'C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Intermediate/ReimportCache/3688439234.bin.tmp' to 'C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Intermediate/ReimportCache/3688439234.bin'.
+[2022.06.26-05.11.21:060][  0]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.06.26-05.11.24:161][  0]LogStats: FPlatformStackWalk::StackWalkAndDump -  3.102 s
+[2022.06.26-05.11.24:182][  0]LogOutputDevice: Error: === Handled ensure: ===
+[2022.06.26-05.11.24:182][  0]LogOutputDevice: Error: 
+[2022.06.26-05.11.24:183][  0]LogOutputDevice: Error: Ensure condition failed: bMoved [File:D:/Build/++UE4/Sync/Engine/Source/Developer/DirectoryWatcher/Private/FileCache.cpp] [Line: 545]
+[2022.06.26-05.11.24:183][  0]LogOutputDevice: Error: Unable to move file-cache for 'C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Content/' from 'C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Intermediate/ReimportCache/3688439234.bin.tmp' to 'C:/Users/ramar/Desktop/unreal-exam-main/unreal-exam-main/Intermediate/ReimportCache/3688439234.bin' (free disk space: 0)
+[2022.06.26-05.11.24:183][  0]LogOutputDevice: Error: Stack: 
+[2022.06.26-05.11.24:183][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8602cc065 UE4Editor-DirectoryWatcher.dll!UnknownFunction []
+[2022.06.26-05.11.24:183][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8602c3bae UE4Editor-DirectoryWatcher.dll!UnknownFunction []
+[2022.06.26-05.11.24:183][  0]LogOutputDevice: Error: [Callstack] 0x00007ff867fb764e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.06.26-05.11.24:183][  0]LogOutputDevice: Error: [Callstack] 0x00007ff867f84fb2 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.06.26-05.11.24:183][  0]LogOutputDevice: Error: [Callstack] 0x00007ff867f4a337 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.06.26-05.11.24:183][  0]LogOutputDevice: Error: [Callstack] 0x00007ff867fb7451 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.06.26-05.11.24:183][  0]LogOutputDevice: Error: [Callstack] 0x00007ff867ef4a29 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.06.26-05.11.24:183][  0]LogOutputDevice: Error: [Callstack] 0x00007ff868308656 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.06.26-05.11.24:183][  0]LogOutputDevice: Error: [Callstack] 0x00007ff868c250e6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.06.26-05.11.24:183][  0]LogOutputDevice: Error: [Callstack] 0x00007ff603d59bc2 UE4Editor.exe!UnknownFunction []
+[2022.06.26-05.11.24:183][  0]LogOutputDevice: Error: [Callstack] 0x00007ff603d7117c UE4Editor.exe!UnknownFunction []
+[2022.06.26-05.11.24:183][  0]LogOutputDevice: Error: [Callstack] 0x00007ff603d7125a UE4Editor.exe!UnknownFunction []
+[2022.06.26-05.11.24:183][  0]LogOutputDevice: Error: [Callstack] 0x00007ff603d852bd UE4Editor.exe!UnknownFunction []
+[2022.06.26-05.11.24:183][  0]LogOutputDevice: Error: [Callstack] 0x00007ff603d87fea UE4Editor.exe!UnknownFunction []
+[2022.06.26-05.11.24:183][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8f72354e0 KERNEL32.DLL!UnknownFunction []
+[2022.06.26-05.11.24:183][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8f892485b ntdll.dll!UnknownFunction []
+[2022.06.26-05.11.24:183][  0]LogOutputDevice: Error: 
